@@ -5,7 +5,6 @@ import { COLORS, WEIGHTS, QUERIES } from "../../constants";
 import Logo from "../Logo";
 import SuperHeader from "../SuperHeader";
 import MobileMenu from "../MobileMenu";
-import SearchInput from "../SearchInput";
 import UnstyledButton from "../UnstyledButton";
 import Icon from "../Icon";
 import VisuallyHidden from "../VisuallyHidden/VisuallyHidden";
